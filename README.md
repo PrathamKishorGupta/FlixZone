@@ -1,4 +1,4 @@
-# FlizZone BluePrint
+# FlixZone BluePrint
 - Create React-vite App
 - Implement TailwindCSS
 
