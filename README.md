@@ -1,6 +1,9 @@
 # FlixZone BluePrint
 - Create React-vite App
 - Implement TailwindCSS
+- Header
+- Login form
+- sign up form
 
 
 # Features
